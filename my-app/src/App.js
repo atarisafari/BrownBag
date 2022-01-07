@@ -1,10 +1,10 @@
 import './App.css';
 
-function App() {
+function App() {s
   return (
     <div className="App">
       <header className="App-header">
-        Pretty New Header
+        Ugly Header
       </header>
     </div>
   );
